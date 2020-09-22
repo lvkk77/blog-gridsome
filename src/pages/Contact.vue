@@ -1,6 +1,5 @@
 <template>
   <Layout>
-
     <!-- Main Content -->
     <div class="container">
       <div class="row">
